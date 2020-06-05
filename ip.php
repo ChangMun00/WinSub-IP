@@ -6,6 +6,10 @@
 
 <center>
             <h2><b>MyIP</b></h2>
+ <!-- 
+해당소스는 윈섭에서 운영중이며, 이 주석을 지울시 문제가 생길수있습니다.
+깃허브 다운로드 : https://github.com/ChangMun00/WinSub-IP
+-->
 <b><h4><?php
 echo $_SERVER['REMOTE_ADDR'];
 ?>
